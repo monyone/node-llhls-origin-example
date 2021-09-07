@@ -5,7 +5,6 @@ import M3U8 from '@monyone/ts-fragmenter'
 
 const m3u8 = new M3U8({ 
   length: 4,
-  lowLatencyMode: false,
   partTarget: 0.3,
 });
 process.stdin.pipe(m3u8)
