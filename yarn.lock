@@ -38,12 +38,12 @@
     minimatch "^3.0.4"
     strip-json-comments "^3.1.1"
 
-"@monyone/ts-fragmenter@^0.0.3":
-  version "0.0.3"
-  resolved "https://registry.yarnpkg.com/@monyone/ts-fragmenter/-/ts-fragmenter-0.0.3.tgz#1a16e427a5823b7e7752ed2759b23c5f506c18cd"
-  integrity sha512-hOmLhnNdbYhuvZhsZ1ymt3hWAAGJGVuHgmt0fu5UdsATgUyFnaNpB/ohP9dhMtG449JojCsnQQoyLXGBlhGoqg==
+"@monyone/ts-fragmenter@^0.0.4":
+  version "0.0.4"
+  resolved "https://registry.yarnpkg.com/@monyone/ts-fragmenter/-/ts-fragmenter-0.0.4.tgz#8ada9f32a474b6f605d923efdf21ab5b17969b84"
+  integrity sha512-ayW2HlS/WZGUqhbWwYHQkUpdoI/rls4QkULJSMbX6M20STNwHJmA10CWNqnVzvj53kkKN3KAtyjbYX/vta9G6Q==
   dependencies:
-    arib-mpeg2ts-parser "^3.0.9"
+    arib-mpeg2ts-parser "^3.0.15"
 
 "@nodelib/fs.scandir@2.1.4":
   version "2.1.4"
@@ -282,10 +282,10 @@ argparse@^1.0.7:
   dependencies:
     sprintf-js "~1.0.2"
 
-arib-mpeg2ts-parser@^3.0.9:
-  version "3.0.9"
-  resolved "https://registry.yarnpkg.com/arib-mpeg2ts-parser/-/arib-mpeg2ts-parser-3.0.9.tgz#4a9b7f3db9a77ca8af3cb4b2c1a78859d8bc29fc"
-  integrity sha512-zLDwTlituveHKnnd57lzMdPisGpFSGJdaJ6G6krLiRJfHjUjh+SFcPM1+6JdY8H/Vpl5bBzZwpg816DHEQjFzA==
+arib-mpeg2ts-parser@^3.0.15:
+  version "3.0.15"
+  resolved "https://registry.yarnpkg.com/arib-mpeg2ts-parser/-/arib-mpeg2ts-parser-3.0.15.tgz#53f818c94b116d57eb59a1357456c06919034c25"
+  integrity sha512-qbO0g1+E/5ghXHusDCK58Cj/EhYrXnvEPYgEsTCMgHes+23OSHAteRMVFajfKazky1zV7RtX1uZR9V7gJwyq3Q==
 
 array-flatten@1.1.1:
   version "1.1.1"

@@ -1,6 +1,6 @@
 {
   "name": "ll-lhs-origin-example",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "main": "dist/index.js",
   "types": "d.ts/index.d.ts",
   "files": [
@@ -45,7 +45,7 @@
     "typescript": "^4.2.3"
   },
   "dependencies": {
-    "@monyone/ts-fragmenter": "^0.0.3",
+    "@monyone/ts-fragmenter": "^0.0.4",
     "cors": "^2.8.5",
     "express": "^4.17.1"
   },
